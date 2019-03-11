@@ -1,0 +1,26 @@
+			.inputwithicon input[type=text]
+			{
+			padding-left:40px;
+			}
+			.inputwithicon input[type=email]
+			{
+			padding-left:40px;
+			}
+			.inputwithicon input[type=password]
+			{
+			padding-left:40px;
+			}
+			.inputwithicon
+			{
+			position:relative;
+			}
+			
+			.inputwithicon i
+			{
+			position:absolute;
+			left:3px;
+			top:2px;
+			padding:9px 8px;
+			color:blue;
+			transition:3s;
+			}
